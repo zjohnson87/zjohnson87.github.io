@@ -25,6 +25,7 @@ a {
   text-align: center;
   display: inline-block;
   vertical-align: sub;
+  font-family: 'Comfortaa';
 }
 a:hover {
   color: orange;
