@@ -5,6 +5,7 @@ body {
 }
 a {
   font-size: 100px;
+  font-family: 'Comfortaa';
   color: blue;
   border: 3px solid blue;
   padding: 20px;
@@ -15,7 +16,6 @@ a {
   text-align: center;
   display: inline-block;
   vertical-align: sub;
-  font-family: 'Comfortaa';
 }
 a:hover {
   color: orange;
