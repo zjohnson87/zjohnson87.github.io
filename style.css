@@ -24,6 +24,7 @@ a {
   margin-top: 100px;
   text-align: center;
   display: inline-block;
+  vertical-align: sub;
 }
 a:hover {
   color: orange;
