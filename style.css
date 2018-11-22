@@ -20,9 +20,12 @@ a {
   padding: 20px;
   border-radius: 3px;
   background: orange;
+  text-decoration: none;
+  margin: 10px;
 }
 a:hover {
-  color: white;
+  color: orange;
   background: white;
   border: 1px solid orange;
+  text-decoration: none;
 }
