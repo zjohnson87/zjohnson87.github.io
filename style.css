@@ -14,7 +14,7 @@ p {
   color: orange;
 }
 a {
-  font-size: 50px;
+  font-size: 100px;
   color: blue;
   border: 3px solid blue;
   padding: 20px;
@@ -23,6 +23,7 @@ a {
   text-decoration: none;
   margin: 50px;
   margin-top: 100px;
+  text-align: center;
 }
 a:hover {
   color: orange;
