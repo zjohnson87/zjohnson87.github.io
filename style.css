@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(90deg, #483D8B, #141E30);
+  background: linear-gradient(0deg, #483D8B, #141E30);
   margin: 0;
   padding: 0;
 }
@@ -7,10 +7,10 @@ a {
   font-size: 100px;
   font-family: 'Raleway', sans-serif;
   color: blue;
-  border: 3px solid blue;
   padding: 20px;
   border-radius: 10px;
   background: orange;
+  opacity: 0.50;
   text-decoration: none;
   margin-top: 100px;
   text-align: center;
