@@ -19,6 +19,5 @@ a:hover {
   color: white;
   border: 5px solid white;
   text-decoration: none;
-  background: white;
-  backface-visibility: 0.50;
+  background:rgba(255,255,255,0.3);
 }
