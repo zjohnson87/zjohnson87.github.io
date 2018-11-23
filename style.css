@@ -9,7 +9,6 @@ a {
   color: white;
   padding: 20px;
   border: 5px solid white;
-  opacity: 0.50;
   text-decoration: none;
   margin-top: 100px;
   text-align: center;
@@ -20,5 +19,6 @@ a:hover {
   color: white;
   border: 5px solid white;
   text-decoration: none;
-  opacity: 0.50;
+  background: white;
+  backface-visibility: 0.50;
 }
