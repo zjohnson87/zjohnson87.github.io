@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(270deg, #483D8B, #141E30);
+  background: linear-gradient(270deg, #4682B4, #B0C4DE);
   margin: 0;
   padding: 0;
 }
@@ -8,7 +8,7 @@ a {
   font-family: 'Verdana';
   color: white;
   padding: 20px;
-  border: 10px solid white;
+  border: 15px solid white;
   text-decoration: none;
   margin-top: 100px;
   text-align: center;
@@ -17,7 +17,7 @@ a {
 }
 a:hover {
   color: white;
-  border: 10px solid white;
+  border: 15px solid white;
   text-decoration: none;
   background:rgba(255,255,255,0.3);
 }
