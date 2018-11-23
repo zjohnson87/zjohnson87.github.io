@@ -8,8 +8,8 @@ a {
   font-family: 'Raleway', sans-serif;
   color: blue;
   padding: 20px;
-  border-radius: 10px;
   background: orange;
+  border: 5px solid white;
   opacity: 0.50;
   text-decoration: none;
   margin-top: 100px;
@@ -20,7 +20,7 @@ a {
 a:hover {
   color: orange;
   background: blue;
-  border: 3px solid orange;
+  border: 5px solid white;
   text-decoration: none;
   opacity: 0.50;
 }
