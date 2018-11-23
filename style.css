@@ -1,8 +1,9 @@
 body {
-  background: linear-gradient(270deg, #4682B4, #B0C4DE);
+  background: linear-gradient(270deg, #B0C4DE, #4682B4);
   margin: 0;
   padding: 0;
 }
+
 a {
   font-size: 100px;
   font-family: 'Verdana';
@@ -15,9 +16,10 @@ a {
   display: inline-block;
   vertical-align: sub;
 }
+
 a:hover {
   color: white;
   border: 15px solid white;
   text-decoration: none;
-  background:rgba(255,255,255,0.3);
+  background: rgba(255, 255, 255, 0.3);
 }
