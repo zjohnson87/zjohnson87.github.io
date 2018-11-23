@@ -6,9 +6,9 @@ body {
 a {
   font-size: 100px;
   font-family: 'Raleway', sans-serif;
-  color: blue;
+  color: white;
   padding: 20px;
-  background: orange;
+  background: grey;
   border: 5px solid white;
   opacity: 0.50;
   text-decoration: none;
@@ -18,8 +18,8 @@ a {
   vertical-align: sub;
 }
 a:hover {
-  color: orange;
-  background: blue;
+  color: white;
+  background: grey;
   border: 5px solid white;
   text-decoration: none;
   opacity: 0.50;
