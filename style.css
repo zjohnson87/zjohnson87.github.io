@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'verbatim-regular';
-    src: url('verbatim-regular-webfont.woff2') format('woff2'),
-         url('verbatim-regular-webfont.woff') format('woff');
+    src: url('/verbatim_regular_macroman/verbatim-regular-webfont.woff2') format('woff2'),
+         url('/verbatim_regular_macroman/verbatim-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'verbatim-oblique';
-    src: url('verbatim-oblique-webfont.woff2') format('woff2'),
-         url('verbatim-oblique-webfont.woff') format('woff');
+    src: url('/verbatim_oblique_macroman/verbatim-oblique-webfont.woff2') format('woff2'),
+         url('/verbatim_oblique_macroman/verbatim-oblique-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
