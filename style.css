@@ -44,10 +44,12 @@ h1 {
   font-family: 'verbatim-oblique', 'Verdana';
   color: white;
   font-size: 100px;
+  margin-bottom: 30px;
 }
 
 #links {
   width: 50%;
+  text-decoration: none;
 }
 
 #allContent {
