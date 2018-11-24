@@ -5,6 +5,13 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'verbatim-oblique';
+    src: url('verbatim-oblique-webfont.woff2') format('woff2'),
+         url('verbatim-oblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
   background: linear-gradient(270deg, #8CBCE0, #4985C5);
@@ -31,7 +38,7 @@ a:hover {
 }
 
 h1 {
-  font-family: 'verbatim-regular', 'Verdana';
+  font-family: 'verbatim-oblique', 'Verdana';
   color: white;
   font-size: 100px;
 }
