@@ -1,6 +1,9 @@
 @font-face {
-  font-family: 'Quicksand';
-  src: /url(/Fonts/Quicksand-Bold.otf);
+    font-family: 'verbatim-regular';
+    src: url('verbatim-regular-webfont.woff2') format('woff2'),
+         url('verbatim-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
@@ -11,7 +14,7 @@ body {
 
 a {
   font-size: 100px;
-  font-family: 'Quicksand', 'Verdana';
+  font-family: 'verbatim-regular', 'Verdana';
   color: white;
   padding: 20px;
   border: 15px solid white;
@@ -28,7 +31,7 @@ a:hover {
 }
 
 h1 {
-  font-family: 'Quicksand', 'Verdana';
+  font-family: 'verbatim-regular', 'Verdana';
   color: white;
   font-size: 100px;
 }
