@@ -22,8 +22,9 @@ a:hover {
   text-decoration: none;
   background: rgba(255, 255, 255, 0.3);
 }
+
 h1 {
   font-family: 'Verdana';
   color: white;
-  font-size: 120px;
+  font-size: 100px;
 }
