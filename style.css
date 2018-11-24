@@ -19,7 +19,8 @@
 }
 
 body {
-  background: linear-gradient(270deg, #A9F9FF, #4985C5);
+  <!-- background: linear-gradient(270deg, #A9F9FF, #4985C5); -->
+  background-image: url("/Images/Mountains.jpg");
 }
 
 a {
