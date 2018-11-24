@@ -27,7 +27,7 @@ a {
   border: 15px solid white;
   text-decoration: none;
   text-align: center;
-  display: inline-block;
+  display: block;
 }
 
 a:hover {
