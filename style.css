@@ -13,11 +13,13 @@
     font-style: normal;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background: linear-gradient(270deg, #9999B9, #4985C5);
-  width: 95%;
-  margin: 0, auto;
-  padding: 0;
 }
 
 a {
@@ -25,7 +27,6 @@ a {
   font-family: 'verbatim-regular', 'Verdana';
   color: white;
   margin-bottom: 30px;
-  margin-right: 400px;
   border: 15px solid white;
   text-decoration: none;
   text-align: center;
@@ -44,6 +45,12 @@ h1 {
   color: white;
   font-size: 100px;
 }
+
 #links {
   width: 50%;
+}
+
+#allContent {
+  width: 95%;
+  margin: 0, auto;
 }
