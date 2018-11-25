@@ -26,17 +26,11 @@ a {
   font-size: 100px;
   font-family: 'verbatim-regular', 'Verdana';
   color: white;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
   border: 15px solid white;
   text-decoration: none;
   text-align: center;
   display: block;
-  background-image: url('Mountains.jpg');
-  background-color: #4985C5;
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 a:hover {
@@ -80,5 +74,4 @@ p {
 }
 
 #headerFront {
-  background: rgba(100, 100, 100, 0.3);
 }
