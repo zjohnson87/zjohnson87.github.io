@@ -20,12 +20,6 @@
 
 body {
   <!-- background: linear-gradient(270deg, #A9F9FF, #4985C5); -->
-  background-image: url('Mountains.jpg');
-  background-color: #4985C5;
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 a {
@@ -62,4 +56,10 @@ h1 {
 #allContent {
   <!-- width: 95%; -->
   margin: 0, 5%;
+  background-image: url('Mountains.jpg');
+  background-color: #4985C5;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
