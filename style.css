@@ -16,7 +16,7 @@
     font-family: 'sofiapro';
     src: url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff2') format('woff2'),
          url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 }
 
