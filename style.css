@@ -13,8 +13,9 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Quicksand-Bold';
-    src: url('/Fonts/quicksand/Quicksand-Bold.otf') format('otf');
+    font-family: 'sofiapro';
+    src: url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff2') format('woff2'),
+         url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -71,7 +72,7 @@ h1 {
 }
 
 p {
-  font-family: 'Quicksand-Bold';
+  font-family: 'sofiapro';
   font-size: 30px;
   color: white;
   margin-bottom: 30px;
