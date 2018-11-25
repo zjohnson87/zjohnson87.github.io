@@ -32,9 +32,9 @@ body {
 a {
   font-size: 100px;
   font-family: 'verbatim-regular', 'Verdana';
-  color: white;
+  color: rgba(200, 200, 200, 0.6);
   margin-bottom: 100px;
-  border: 15px solid white;
+  border: 15px solid rgba(200, 200, 200, 0.6);
   text-decoration: none;
   text-align: center;
   display: block;
