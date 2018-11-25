@@ -34,7 +34,7 @@ a {
   font-family: 'verbatim-regular', 'Verdana';
   color: rgba(200, 200, 200, 0.6);
   margin-bottom: 100px;
-  border: 15px solid rgba(200, 200, 200, 0.6);
+  border: 15px solid rgba(200, 200, 200, 0.7);
   text-decoration: none;
   text-align: center;
   display: block;
@@ -78,7 +78,7 @@ p {
 }
 
 #header {
-  background: rgba(200, 200, 200, 0.6);
+  background: rgba(200, 200, 200, 0.7);
   font-color: black;
   margin-bottom: 20px;
 }
