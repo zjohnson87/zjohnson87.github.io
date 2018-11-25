@@ -51,6 +51,12 @@ h1 {
   width: 50%;
   text-decoration: none;
   padding: 15px;
+  background-image: url('Mountains.jpg');
+  background-color: #4985C5;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #allContent {
