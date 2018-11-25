@@ -19,13 +19,7 @@
 }
 
 body {
-  <!-- background: linear-gradient(270deg, #A9F9FF, #4985C5); -->
-  background-image: url('Mountains.jpg');
-  background-color: #4985C5;
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(270deg, #A9F9FF, #4985C5);
 }
 
 a {
@@ -69,4 +63,13 @@ p {
   font-family: 'verbatim-regular';
   font-size: 40px;
   color: white;
+}
+
+#header {
+  background-image: url('Mountains.jpg');
+  background-color: #4985C5;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
