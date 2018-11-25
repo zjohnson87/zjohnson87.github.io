@@ -19,13 +19,7 @@
 }
 
 body {
-  <!-- background: linear-gradient(270deg, #F0F0F0, #4985C5); -->
-  background-image: url('space.gif');
-  background-color: #4985C5;
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(270deg, #F0F0F0, #4985C5);
 }
 
 a {
@@ -62,6 +56,12 @@ h1 {
 #allContent {
   width: 100%;
   margin: 0, auto;
+  background-image: url('space.gif');
+  background-color: #4985C5;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p {
