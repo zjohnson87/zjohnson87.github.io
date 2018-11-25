@@ -22,7 +22,7 @@ body {
   <!-- background: linear-gradient(270deg, #A9F9FF, #4985C5); -->
   background-image: url('Mountains.jpg');
   background-color: #4985C5;
-  height: 500px;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
