@@ -13,8 +13,8 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Rubik-Bold';
-    src: url('/Fonts/rubik/Rubik-Bold.ttf') format('truetype');
+    font-family: 'Rubik-Light';
+    src: url('/Fonts/rubik/Rubik-Light.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -78,7 +78,7 @@ h1 {
 }
 
 p {
-  font-family: 'Rubik-Bold';
+  font-family: 'Rubik-Light';
   font-size: 30px;
   margin-bottom: 30px;
   padding-bottom: 25px;
