@@ -13,6 +13,12 @@
     font-style: normal;
 }
 @font-face {
+    font-family: 'Rubik-Bold';
+    src: url('/Fonts/rubik/Rubik-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
     font-family: 'sofiapro';
     src: url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff2') format('woff2'),
          url('/Fonts/sofiapro_light_macroman/sofiapro-light-webfont.woff') format('woff');
@@ -72,7 +78,7 @@ h1 {
 }
 
 p {
-  font-family: 'sofiapro';
+  font-family: 'Rubik-Bold';
   font-size: 30px;
   margin-bottom: 30px;
   padding-bottom: 25px;
