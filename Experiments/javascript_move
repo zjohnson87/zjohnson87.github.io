@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JavaScript - Move Object with Arrow Keys using JavaScript Function</title>
+
+        <script type="text/javascript">
+
+            //init objects globally
+			var myBox = null;
+            var myContainer = null;
+
+			function init(){
+				myContainer=document.getElementById("container");
+                myContainer.style.position='relative';
+                myContainer.style.left='0px';
+                myContainer.style.right='0px';
+                myBox=document.getElementById("box");
+                myBox.style.position='absolute';
+				myBox.style.left='0px';
+				myBox.style.top='0px';
+			}
+			function getKeyAndMove(e) {
+				var key_code=e.which||e.keyCode;
+				switch(key_code){
+					case 37: //left arrow key
+						moveLeft();
+						break;
+					case 38: //Up arrow key
+						moveUp();
+						break;
+					case 39: //right arrow key
+						moveRight();
+						break;
+					case 40: //down arrow key
+						moveDown();
+						break;
+				}
+			}
+			function moveLeft(){
+				if ((parseInt(myBox.style.left)-10) >= 0) {
+                	myBox.style.left=parseInt(myBox.style.left)-10 +'px';
+                    }
+			}
+			function moveUp(){
+            	if ((parseInt(myBox.style.top)-10) >= 0) {
+                    myBox.style.top=parseInt(myBox.style.top)-10 +'px';
+                    }
+			}
+			function moveRight(){
+            	if ((parseInt(myBox.style.left)+10)<=710) {
+					myBox.style.left=parseInt(myBox.style.left)+10 +'px';
+                }
+			}
+			function moveDown(){
+            	if ((parseInt(myBox.style.top)+10)<=620) {
+					myBox.style.top=parseInt(myBox.style.top)+10 +'px';
+                }
+			}
+			window.onload=init;
+		</script>
+	</head>
+
+	<body onkeydown='getKeyAndMove(event)'>
+
+        <style>
+
+        #container {
+        	width: 810px;
+            height: 720px;
+            background: black;
+            position: relative;
+        }
+        #box {
+            width: 100px;
+            height: 100px;
+            background: teal;
+            position: absolute;
+        }
+        </style>
+
+        <div id="container">
+        	<div id="box"></div>
+        </div>
+
+    </body>
+</html>
