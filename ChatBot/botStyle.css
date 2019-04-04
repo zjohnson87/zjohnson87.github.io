@@ -4,7 +4,7 @@
   }
   
   html {
-    background-image: url('space.gif');
+    background-image: url('../space.gif');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
