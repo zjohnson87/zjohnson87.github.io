@@ -22,12 +22,7 @@
       font-size: 50px;
   }
 
-  #output {
-      display: flex;
-      text-align: center;
-  }
-
-  #container {
+  #container, #output {
       display: flex;
       justify-content: center;
       margin-top: 100px;
