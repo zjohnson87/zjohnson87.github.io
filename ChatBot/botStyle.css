@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Rubik-Light';
+    src: url('/Fonts/rubik/Rubik-Light.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -15,11 +22,13 @@
       text-align: center;
       color: #FFFFFF;
       font-size: 110px;
+      font-family: sans-serif;
   }
 
   #input {
       text-align: center;
       font-size: 50px;
+      font-family: 'Rubik-light';
       margin: 0 auto;
   }
 
