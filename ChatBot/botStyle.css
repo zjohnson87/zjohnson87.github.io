@@ -14,7 +14,7 @@
   h1 {
       text-align: center;
       color: #FFFFFF;
-      font-size: 150px;
+      font-size: 110px;
   }
 
   #input {
@@ -25,5 +25,5 @@
   #container, #output {
       display: flex;
       margin: 0 auto;
-      margin-top: 100px;
+      margin-top: 300px;
   }
