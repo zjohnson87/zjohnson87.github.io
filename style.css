@@ -31,6 +31,16 @@
   padding: 0;
 }
 
+
+
+html {
+  background-image: url('space.gif');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
   background: black;
 }
@@ -68,7 +78,6 @@ h1 {
 #allContent {
   width: 100%;
   margin: 0, auto;
-  background-image: url('space.gif');
   background-color: #4985C5;
   height: auto;
   background-position: center;
