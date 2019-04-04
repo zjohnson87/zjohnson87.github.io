@@ -33,6 +33,7 @@
 
 body {
   background: black;
+  display: flex;
 }
 
 a {
