@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    background-image: url('space.gif');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+      text-align: center;
+      color: #FFFFFF;
+      font-size: 150px;
+  }
+
+  #input {
+      text-align: center;
+      font-size: 50px;
+  }
+
+  #output {
+      display: flex;
+      text-align: center;
+  }
+
+  #container {
+      display: flex;
+      justify-content: center;
+      margin-top: 100px;
+  }
