@@ -40,6 +40,7 @@ html {
 }
 
 a {
+  width: 50%;
   font-size: 100px;
   font-family: 'verbatim-regular', 'Verdana';
   color: rgba(200, 200, 200, 0.75);
@@ -64,7 +65,6 @@ h1 {
 }
 
 #links {
-  width: 50%;
   text-decoration: none;
   padding: 15px;
 }
@@ -80,6 +80,12 @@ p {
   font-size: 30px;
   margin-bottom: 30px;
   padding-bottom: 25px;
+}
+
+#projectDescriptor {
+  width: 50%;
+  text-align: right;
+  background: rgba(200, 200, 200, 0.7);
 }
 
 #header {
