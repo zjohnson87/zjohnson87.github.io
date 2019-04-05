@@ -84,8 +84,10 @@ p {
 
 #projectDescriptor {
   width: 50%;
-  text-align: right;
+  text-align: left;
+  float: right;
   background: rgba(200, 200, 200, 0.7);
+  margin: 0 5%;
 }
 
 #header {
