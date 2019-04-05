@@ -9,36 +9,36 @@
     margin: 0;
     padding: 0;
   }
-  
-  html {
+
+html {
     background-image: url('../space.gif');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
+}
 
-  h1 {
-      text-align: center;
-      color: #FFFFFF;
-      font-size: 110px;
-      font-family: sans-serif;
-  }
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 110px;
+    font-family: sans-serif;
+}
 
-  #input {
-      text-align: center;
-      font-size: 50px;
-      font-family: 'Rubik-light';
-      margin: 0 auto;
-  }
+#input {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Rubik-light';
+    margin: 0 auto;
+}
 
-  #container {
-      margin-top : 100px;
-      margin: 0 auto;
-  }
+#container {
+    display: flex;
+    margin: 100px auto;
+}
 
-  #output {
-      display: flex;
-      margin: 0 auto;
-      margin-top: 300px;
-  }
+#output {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 300px;
+}

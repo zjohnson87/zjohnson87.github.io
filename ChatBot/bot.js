@@ -8,6 +8,6 @@ function bot() {
     var input = document.getElementById('input').nodeValue;
     console.log(input);
     if (input.substring(0,5) == 'Hello') {
-        output.innerHTML = 'Hi!';
+        output.innerHTML= '<h1>Hi!<h1>';
     }
 }
