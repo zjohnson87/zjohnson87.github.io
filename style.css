@@ -87,12 +87,11 @@ p {
   text-align: left;
   float: right;
   background: rgba(200, 200, 200, 0.7);
-  margin: 0 5%;
+  margin-bottom: 100px;
 }
 
 #header {
   background: rgba(200, 200, 200, 0.7);
-  font-color: black;
   margin-bottom: 20px;
 }
 
