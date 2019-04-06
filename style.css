@@ -40,7 +40,7 @@ html {
 }
 
 a {
-  width: 50%;
+  width: 45%;
   font-size: 100px;
   font-family: 'verbatim-regular', 'Verdana';
   color: rgba(200, 200, 200, 0.75);
@@ -83,7 +83,7 @@ p {
 }
 
 #projectDescriptor {
-  width: 35%;
+  width: 30%;
   text-align: left;
   float: right;
   background: rgba(200, 200, 200, 0.7);
