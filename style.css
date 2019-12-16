@@ -106,6 +106,9 @@ p {
 }
 
 .container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr; /* fraction*/
+  display: flex;
+}
+
+.container > div {
+  flex: 1; /*grow*/
 }
