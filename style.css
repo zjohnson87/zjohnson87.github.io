@@ -104,3 +104,8 @@ p {
   width: 97.5%;
   margin: auto;
 }
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* fraction*/
+}
