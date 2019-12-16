@@ -83,12 +83,10 @@ p {
 }
 
 #projectDescriptor {
-  width: 30%;
   text-align: left;
   background: rgba(200, 200, 200, 0.7);
   margin-bottom: 100px;
   margin-left: 20px;
-  float: left;
 }
 
 #descriptorList {
