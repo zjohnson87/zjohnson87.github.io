@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stalling on Zachary Johnson</title>
+    <link>https://zjohnson87.github.io/tags/stalling/</link>
+    <description>Recent content in Stalling on Zachary Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://zjohnson87.github.io/tags/stalling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pipelined MIPS CPU in VHDL</title>
+      <link>https://zjohnson87.github.io/projects/creations/mips-cpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/projects/creations/mips-cpu/</guid>
+      <description>A 5-stage pipeline CPU implementation of MIPS instruction set architecture, including hazard detection, forwarding, flushing, and stalling, all implemented in hardware. Tested using MIPS assembly programs that I wrote, including a MIPS assembly implementation of a Fibonacci number generator. Implemented as a course project with the help of one partner over the course of a half semester.</description>
+    </item>
+    
+  </channel>
+</rss>

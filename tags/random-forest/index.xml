@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Forest on Zachary Johnson</title>
+    <link>https://zjohnson87.github.io/tags/random-forest/</link>
+    <description>Recent content in Random Forest on Zachary Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://zjohnson87.github.io/tags/random-forest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Music Features Analysis &amp; Genre Classification</title>
+      <link>https://zjohnson87.github.io/projects/creations/music-analysis/</link>
+      <pubDate>Tue, 11 Aug 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://zjohnson87.github.io/projects/creations/music-analysis/</guid>
+      <description>A data analytics project using a music features dataset found on Kaggle. It includes visual analysis of data, summarization of domain-specific terms, feature selection, hyperparameter tuning (using GridSearchCV), and a genre classification model.</description>
+    </item>
+    
+  </channel>
+</rss>
