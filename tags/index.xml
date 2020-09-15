@@ -228,6 +228,15 @@
     </item>
     
     <item>
+      <title>Algorithms</title>
+      <link>https://zjohnson87.github.io/tags/algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence</title>
       <link>https://zjohnson87.github.io/tags/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -246,6 +255,15 @@
     </item>
     
     <item>
+      <title>Breadth First Search</title>
+      <link>https://zjohnson87.github.io/tags/breadth-first-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/breadth-first-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CI/CD pipelines</title>
       <link>https://zjohnson87.github.io/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -255,11 +273,29 @@
     </item>
     
     <item>
+      <title>Data Structures</title>
+      <link>https://zjohnson87.github.io/tags/data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Logic</title>
       <link>https://zjohnson87.github.io/tags/digital-logic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zjohnson87.github.io/tags/digital-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Programming</title>
+      <link>https://zjohnson87.github.io/tags/dynamic-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/dynamic-programming/</guid>
       <description></description>
     </item>
     
@@ -291,6 +327,15 @@
     </item>
     
     <item>
+      <title>Graphs</title>
+      <link>https://zjohnson87.github.io/tags/graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hazard Detection</title>
       <link>https://zjohnson87.github.io/tags/hazard-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -309,6 +354,33 @@
     </item>
     
     <item>
+      <title>Image Processing</title>
+      <link>https://zjohnson87.github.io/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverted Index</title>
+      <link>https://zjohnson87.github.io/tags/inverted-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/inverted-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Programming</title>
+      <link>https://zjohnson87.github.io/tags/iterative-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/iterative-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java</title>
       <link>https://zjohnson87.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -323,6 +395,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zjohnson87.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices</title>
+      <link>https://zjohnson87.github.io/tags/matrices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/matrices/</guid>
       <description></description>
     </item>
     
@@ -359,6 +440,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zjohnson87.github.io/tags/vhdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>https://zjohnson87.github.io/tags/web-scraping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/web-scraping/</guid>
       <description></description>
     </item>
     

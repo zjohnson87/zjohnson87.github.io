@@ -196,11 +196,19 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/algorithms/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/artificial-intelligence/</loc>
   </url>
   
   <url>
     <loc>https://zjohnson87.github.io/tags/bamboo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/breadth-first-search/</loc>
   </url>
   
   <url>
@@ -212,7 +220,15 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/data-structures/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/digital-logic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/dynamic-programming/</loc>
   </url>
   
   <url>
@@ -228,6 +244,10 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/graphs/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/hazard-detection/</loc>
   </url>
   
@@ -236,11 +256,27 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/image-processing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/inverted-index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/iterative-programming/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/java/</loc>
   </url>
   
   <url>
     <loc>https://zjohnson87.github.io/tags/jquery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/matrices/</loc>
   </url>
   
   <url>
@@ -265,7 +301,19 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/projects/creations/image-processor/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/vhdl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/projects/creations/web-crawler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/web-scraping/</loc>
   </url>
   
 </urlset>

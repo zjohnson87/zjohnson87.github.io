@@ -99,5 +99,23 @@ Initial setup Search depends on additional output content type of JSON in config
 [outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
+    <item>
+      <title>Stitch/Width Cut Image Processor</title>
+      <link>https://zjohnson87.github.io/projects/creations/image-processor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/projects/creations/image-processor/</guid>
+      <description>An image processing application created for COM S 311 (Analysis and Design of Algorithms). It can make width cuts to change the width of images while causing minimal distortion, and stitch cuts to combine two images together with minimal noticeability. Cuts are made based on calculated pixel importances. Pixels with high importance are less likely to be removed by the algorithm. The assignment was done as an academic demonstration of my ability to implement iterative dynamic programming algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Web Crawler and Search Algorithm</title>
+      <link>https://zjohnson87.github.io/projects/creations/web-crawler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/projects/creations/web-crawler/</guid>
+      <description>A web crawler application created for COM S 311 (Analysis and Design of Algorithms). It uses breadth first search to generate a graph of web pages, starting from a seed URL and creating edges to all pages linked from that page (pages downloaded using jsoup). The graph generating method also has parameters &amp;quot;maxPages&amp;quot; and &amp;quot;maxDepth&amp;quot; to constrain the size of the graph. An inverted index containing the URLs, their content, and their indegrees is then created using the web graph.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrices on Zachary Johnson</title>
+    <link>https://zjohnson87.github.io/tags/matrices/</link>
+    <description>Recent content in Matrices on Zachary Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://zjohnson87.github.io/tags/matrices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stitch/Width Cut Image Processor</title>
+      <link>https://zjohnson87.github.io/projects/creations/image-processor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/projects/creations/image-processor/</guid>
+      <description>An image processing application created for COM S 311 (Analysis and Design of Algorithms). It can make width cuts to change the width of images while causing minimal distortion, and stitch cuts to combine two images together with minimal noticeability. Cuts are made based on calculated pixel importances. Pixels with high importance are less likely to be removed by the algorithm. The assignment was done as an academic demonstration of my ability to implement iterative dynamic programming algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>
