@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Zachary Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 12:41:05 -0500</lastBuildDate>
-    
-	<atom:link href="https://zjohnson87.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Aug 2020 12:41:05 -0500</lastBuildDate><atom:link href="https://zjohnson87.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Visualization</title>
       <link>https://zjohnson87.github.io/tags/data-visualization/</link>
@@ -237,6 +233,15 @@
     </item>
     
     <item>
+      <title>Alpha-Beta Pruning</title>
+      <link>https://zjohnson87.github.io/tags/alpha-beta-pruning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/alpha-beta-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence</title>
       <link>https://zjohnson87.github.io/tags/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -251,6 +256,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zjohnson87.github.io/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Networks</title>
+      <link>https://zjohnson87.github.io/tags/bayesian-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/bayesian-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Statistics</title>
+      <link>https://zjohnson87.github.io/tags/bayesian-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/bayesian-statistics/</guid>
       <description></description>
     </item>
     
@@ -408,6 +431,15 @@
     </item>
     
     <item>
+      <title>Minimax Algorithm</title>
+      <link>https://zjohnson87.github.io/tags/minimax-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/minimax-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MIPS Assembly</title>
       <link>https://zjohnson87.github.io/tags/mips-assembly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -426,11 +458,38 @@
     </item>
     
     <item>
+      <title>Probabilistic Inference</title>
+      <link>https://zjohnson87.github.io/tags/probabilistic-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/probabilistic-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability</title>
+      <link>https://zjohnson87.github.io/tags/probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stalling</title>
       <link>https://zjohnson87.github.io/tags/stalling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zjohnson87.github.io/tags/stalling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://zjohnson87.github.io/tags/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zjohnson87.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     

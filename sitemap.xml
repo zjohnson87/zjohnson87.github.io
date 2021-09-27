@@ -200,11 +200,27 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/alpha-beta-pruning/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/artificial-intelligence/</loc>
   </url>
   
   <url>
     <loc>https://zjohnson87.github.io/tags/bamboo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/bayesian-networks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/projects/creations/bayesian_networks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/bayesian-statistics/</loc>
   </url>
   
   <url>
@@ -280,6 +296,10 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/minimax-algorithm/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/tags/mips-assembly/</loc>
   </url>
   
@@ -292,12 +312,24 @@
   </url>
   
   <url>
+    <loc>https://zjohnson87.github.io/tags/probabilistic-inference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/probability/</loc>
+  </url>
+  
+  <url>
     <loc>https://zjohnson87.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
     <loc>https://zjohnson87.github.io/tags/stalling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zjohnson87.github.io/tags/statistics/</loc>
   </url>
   
   <url>

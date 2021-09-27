@@ -5,11 +5,7 @@
     <link>https://zjohnson87.github.io/tags/fpga/</link>
     <description>Recent content in FPGA on Zachary Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://zjohnson87.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://zjohnson87.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pipelined MIPS CPU in VHDL</title>
       <link>https://zjohnson87.github.io/projects/creations/mips-cpu/</link>

@@ -5,11 +5,7 @@
     <link>https://zjohnson87.github.io/tags/image-processing/</link>
     <description>Recent content in Image Processing on Zachary Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://zjohnson87.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://zjohnson87.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stitch/Width Cut Image Processor</title>
       <link>https://zjohnson87.github.io/projects/creations/image-processor/</link>
